@@ -19,6 +19,7 @@ This module has been tested to work on the following systems with Puppet v3
  * Suse 11
  * Ubuntu 12.04
  * Ubuntu 14.04
+ * Ubuntu 18.04
  * Solaris 9
  * Solaris 10
  * Solaris 11
